@@ -39,5 +39,9 @@
 [![The Unlicense License](https://img.shields.io/badge/license-None-red)](https://opensource.org/license/unlicense)
 ```
 
-### ⛓️ Blockchain
+### 🌏 Browsers
 
+[![Google Chrome](https://raw.githubusercontent.com/pijawca/opensource-badges/main/badges/browsers/125x28/google-chrome.png)](#)
+```
+[![Google Chrome](https://raw.githubusercontent.com/pijawca/opensource-badges/main/badges/browsers/125x28/google-chrome.png)](#)
+```
