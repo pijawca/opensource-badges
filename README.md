@@ -41,7 +41,7 @@
 
 ### 🌏 Browsers
 
-[![Google Chrome](https://raw.githubusercontent.com/pijawca/opensource-badges/main/badges/browsers/125x28/google-chrome.png)](#)
+[![Google Chrome](https://raw.githubusercontent.com/pijawca/opensource-badges/main/badges/browsers/125x25/google-chrome.svg)](#)
 ```
-[![Google Chrome](https://raw.githubusercontent.com/pijawca/opensource-badges/main/badges/browsers/125x28/google-chrome.png)](#)
+[![Google Chrome](https://raw.githubusercontent.com/pijawca/opensource-badges/main/badges/browsers/125x28/google-chrome.svg)](#)
 ```
