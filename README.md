@@ -41,7 +41,7 @@
 
 ### 🌏 Browsers
 
-[![Google Chrome](https://raw.githubusercontent.com/pijawca/opensource-badges/main/badges/browsers/125x25/google-chrome.svg)](#)
+[![Google Chrome](https://raw.githubusercontent.com/pijawca/opensource-badges/68e35813c0ecdb8e324779fc1e4403a76fca0737/badges/browsers/125x25/svg/google-chrome.svg)](#)
 ```
-[![Google Chrome](https://raw.githubusercontent.com/pijawca/opensource-badges/main/badges/browsers/125x28/google-chrome.svg)](#)
+[![Google Chrome](https://raw.githubusercontent.com/pijawca/opensource-badges/68e35813c0ecdb8e324779fc1e4403a76fca0737/badges/browsers/125x25/svg/google-chrome.svg)](#)
 ```
